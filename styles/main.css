@@ -221,3 +221,10 @@ footer {
 .menu > li:last-child a {
     margin-right: 0;
 }
+
+ul  {
+  padding-left: 0;
+}
+ul li {
+   list-style-position: inside;
+ 
